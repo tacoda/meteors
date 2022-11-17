@@ -4,9 +4,9 @@ An application that finds the closest meteor landing site using NASA data
 
 ## Usage
 
-First, install `pipenv`. Then:
+```sh
+devenv shell # Start devenv shell
 
-```
-pipenv install
-pipenv run python meteors/meteorites.py
+install # Install dependencies
+run # Run meteorites script
 ```
