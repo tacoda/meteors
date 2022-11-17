@@ -6,3 +6,5 @@ __pycache__/
 Pipfile.lock
 
 env/
+.devenv*
+devenv.local.nix
